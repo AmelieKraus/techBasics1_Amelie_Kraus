@@ -1,0 +1,14 @@
+
+print("    /\\_/\\")
+print("<3 ( o.o )")
+print("    > ^ <  ( )")
+print("    /   \\  \\ \\")
+print("   / ||  \\  ) )")
+print("   \\ ||  /_/ /")
+print("    \\UU_/___/")
+
+This is my ASCCI code of a cat.
+I inspired myself online of what is possible to do.
+While trying this out I noticed that i couldn't use a single backslash \ even in brackets, so I had to look up a solution for that.
+\ is an Escape sign and therefore you have to use \\ to be able to print a single \.
+
