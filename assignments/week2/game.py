@@ -1,7 +1,7 @@
 import time
 
 
-# Typing effect function
+# Typing effect :) end="" so there is no space between letters
 def type_scroll(text, speed=0.03):
     for char in text:
         print(char, end="", flush=True)
@@ -82,7 +82,7 @@ if choice1 == "left":
         type_scroll("The ghost dislikes your silence and vanishes with the orb. You find nothing.")
 
 else:
-    # If the user typed something other than left or right at the very start
+    # when typed something other than left or right (start/ first input)
     type_scroll("You hesitated for too long. The world fades away... 🌫️")
     print("GAME OVER.")
 
